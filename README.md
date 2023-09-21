@@ -26,6 +26,9 @@ Completed the following steps:
 
     - Used **otu_labels** as the hovertext for the chart.
   
+![alt text](https://github.com/mdyousufreja/belly-button-challenge/assets/135454460/fd245817-d7d5-4f34-bd96-0a6e32f315f3)
+
+  
 3. Created a bubble chart that displays each sample.
 
     - Used **otu_ids** for the x values.
