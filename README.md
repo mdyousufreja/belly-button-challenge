@@ -41,6 +41,8 @@ Completed the following steps:
 
     - Used **otu_labels** for the text values
 
+![alt text](https://github.com/mdyousufreja/belly-button-challenge/assets/135454460/b0b397b6-ab7c-4338-a3bd-b0d071394b26)
+
 
 4. Displayed the sample metadata, i.e., an individual's demographic information.
 
