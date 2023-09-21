@@ -39,6 +39,10 @@ Completed the following steps:
     - Used otu_labels for the text values
 
 
-Display the sample metadata, i.e., an individual's demographic information.
+4. Displayed the sample metadata, i.e., an individual's demographic information.
 
-Display each key-value pair from the metadata JSON object somewhere on the page
+5. Displayed each key-value pair from the metadata JSON object somewhere on the page.
+
+6. Updated all the plots when a new sample is selected.
+
+7. Deployed my app to a free static page hosting service, such as GitHub Pages. Submit the links to my deployment and my GitHub repo. 
