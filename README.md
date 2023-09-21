@@ -28,15 +28,15 @@ Completed the following steps:
   
 3. Created a bubble chart that displays each sample.
 
-    - Used otu_ids for the x values.
+    - Used **otu_ids** for the x values.
 
-    - Used sample_values for the y values.
+    - Used **sample_values** for the y values.
 
-    - Used sample_values for the marker size.
+    - Used **sample_values** for the marker size.
 
-    - Used otu_ids for the marker colors.
+    - Used **otu_ids** for the marker colors.
 
-    - Used otu_labels for the text values
+    - Used **otu_labels** for the text values
 
 
 4. Displayed the sample metadata, i.e., an individual's demographic information.
