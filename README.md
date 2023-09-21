@@ -48,6 +48,9 @@ Completed the following steps:
 
 5. Displayed each key-value pair from the metadata JSON object somewhere on the page.
 
+![alt text](https://github.com/mdyousufreja/belly-button-challenge/assets/135454460/9348ca33-a82a-4bd1-8e00-1dfff4cf9a12)
+
+
 6. Updated all the plots when a new sample is selected.
 
 7. Deployed my app to a free static page hosting service, such as GitHub Pages. Submit the links to my deployment and my GitHub repo.
