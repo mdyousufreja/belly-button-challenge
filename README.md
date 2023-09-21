@@ -45,4 +45,9 @@ Completed the following steps:
 
 6. Updated all the plots when a new sample is selected.
 
-7. Deployed my app to a free static page hosting service, such as GitHub Pages. Submit the links to my deployment and my GitHub repo. 
+7. Deployed my app to a free static page hosting service, such as GitHub Pages. Submit the links to my deployment and my GitHub repo.
+
+
+## References ##
+
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
